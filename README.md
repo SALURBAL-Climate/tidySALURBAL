@@ -23,7 +23,7 @@ You can install the development version of tidySALURBAL from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Drexel-UHC/tidySALURBAL")
+devtools::install_github("SALURBAL-Climate/tidySALURBAL")
 ```
 
 To load the package call the following code.
